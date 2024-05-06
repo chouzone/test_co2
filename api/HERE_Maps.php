@@ -18,7 +18,7 @@
         <script src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"
             type="text/javascript" charset="utf-8"></script>
         
-        <script src="HERE_Maps.js"></script>
+        <script src="HERE_Maps0506.js"></script>
     </head>
     <body>
         <div id="mapContainer" style="width: 100%; height: 400px;"></div>
